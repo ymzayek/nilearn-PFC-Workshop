@@ -47,7 +47,7 @@ $ cd Notebooks
 $ jupyter-notebook
 ```
 
- The notebooks are based from previous nilearn tutorials:
+ The notebooks are based on previous nilearn tutorials:
 
 + - [Nilearn tutorial EUGLOH 2021](https://github.com/NicolasGensollen/nilearn-tutorial-EUGLOH-2021) given by [Nicolas Gensollen](https://github.com/NicolasGe  nsollen)
   - [Resting State and Brain Connectivity 2018 satellite workshop](https://github.com/illdopejake/RS2018_Nilearn_tutorial) given by [Gaël Varoquaux](https://g  ithub.com/GaelVaroquaux) and [Jacob Vogel](https://github.com/illdopejake).
