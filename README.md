@@ -1,15 +1,13 @@
 # Nilearn tutorial for EBRAINS PFC Workshop
 
-March 16, 2023
+March 16, 2023 (11:45–13:30)
 
 This repository holds the materials for the Nilearn tutorial for the EBRAINS PFC workshop in Paris.
+[Click here to access the official website of the PFC workshop](https://www.humanbrainproject.eu/en/education-training-career/workshops/pfc/)
 
+## Running the notebooks online on EBRAINS
 
-## Running the notebooks online on EBRAINS Lab
-
-To run the notebooks using the EBRAINS Lab environment, click on the link below. You will be prompted to choose the execution site (the default should be fine) and authenticate if you haven't already. Then select the default (recommended) docker image for the server option to start JupyterHub. Now you can navigate to and open the notebooks from the directory on the left-hand side.
-
-[Nilearn materials](https://lab.ebrains.eu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fymzayek%2Fnilearn-PFC-Workshop&urlpath=lab%2Ftree%2Fnilearn-PFC-Workshop%2F)
+You can run these notebook on EBRAINS Lab following this link: [nilearn PFC materials](https://lab.ebrains.eu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fymzayek%2Fnilearn-PFC-Workshop&urlpath=lab%2Ftree%2Fnilearn-PFC-Workshop%2F)
 
 
 ## Local installation instructions:
