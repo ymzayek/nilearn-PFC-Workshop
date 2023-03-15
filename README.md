@@ -24,8 +24,7 @@ $ git clone https://github.com/ymzayek/nilearn-PFC-Workshop.git
 $ cd nilearn-PFC-Workshop
 ```
 
-Although not required, we recommend creating and activating a virtual environment before installing the requirements:
-The example show how to do this using Python venv module but you can use any environment package you're used to:
+Although not required, we recommend creating and activating a virtual environment before installing the requirements. The example shows how to do this using Python venv module but you can use any environment management tool you're used to:
 
 ```
 python3 -m venv nilearn_tutorial
